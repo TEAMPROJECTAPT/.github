@@ -1,12 +1,17 @@
-## Hi there 👋
+# 조선대학교 산학프로젝트1 
 
-<!--
+## 프로젝트 활동 내역
+[Main Repository]()
 
-**Here are some ideas to get you started:**
+## 프로젝트 개요
+머신러닝을 활용해 QR코드 기반 피싱 사이트를 실시간으로 탐지·차단하는 시스템을 구현하는 프로젝트입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 팀장
+- **정제윤**
+
+### 팀원
+- **임정훈**
+- **박진우**
+- **강보석**
+- **김민지**
+
