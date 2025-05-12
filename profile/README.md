@@ -35,7 +35,7 @@ AWS 서버 구축 진행 중
 `extract_features_1_22.py`  
 피쳐 1 ~ 22 추출
 
-`extract_features_23_26.py` 
+`extract_features_23_26.py`  
 피쳐 23 ~ 26 추출
 
 `extract_valid_urls.py`  
