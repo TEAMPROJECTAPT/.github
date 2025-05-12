@@ -2,7 +2,8 @@
 
 ## 프로젝트 활동 내역
 [Main Repository](https://github.com/TEAMPROJECTAPT/main)
-[App Repository]()
+
+[App Repository](https://github.com/TEAMPROJECTAPT/app)
 
 ## 프로젝트 개요
 머신러닝을 활용해 QR코드 기반 피싱 사이트를 실시간으로 탐지·차단하는 시스템을 구현하는 프로젝트입니다.
