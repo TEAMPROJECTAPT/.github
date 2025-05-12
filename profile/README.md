@@ -31,14 +31,30 @@ QR 코드 어플리케이션 개발 중
 AWS 서버 구축 진행 중
 
 ### 기능별 스크립트 설명
-extract_features_1_22.py: 피쳐 1 ~ 22 추출
 
-extract_valid_urls.py: 유효한 정상 URL 필터링
+`extract_features_1_22.py`  
+피쳐 1 ~ 22 추출
 
-### 데이터셋 설명 
-2025_URL_DATASET.csv: 최신 데이터 기반 데이터셋
-features_1_22.csv: 특징 추출 1 ~ 22
-features_23_26.csv: 특징 추출 23 ~ 26
-top-1m.csv: Tranco 기반 순위 데이터
-phish_score.csv: PhishStats에서 수집한 피싱 URL 데이터
+`extract_features_23_26.py` 
+피쳐 23 ~ 26 추출
+
+`extract_valid_urls.py`  
+유효한 정상 URL 필터링
+
+### 데이터셋 설명
+
+`2025_URL_DATASET.csv`  
+최신 데이터 기반 데이터셋
+
+`features_1_22.csv`  
+특징 추출 1 ~ 22
+
+`features_23_26.csv`  
+특징 추출 23 ~ 26
+
+`top-1m.csv`  
+Tranco 기반 순위 데이터
+
+`phish_score.csv`  
+PhishStats에서 수집한 피싱 URL 데이터
 
