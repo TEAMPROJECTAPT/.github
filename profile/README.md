@@ -15,6 +15,7 @@
 
 ## 📚 Repository Links
 
+- [gitlab](https://git.chosun.ac.kr/iap1-2025/class-06/team-10)
 - [앱 Repo (GitHub)](https://github.com/TEAMPROJECTAPT/app)
 
 ---
