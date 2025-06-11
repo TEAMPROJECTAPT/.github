@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=조선대학교%20산학프로젝트1-10조&fontSize=36&fontAlignY=35&desc=QR%20Code%20Phishing%20Detection%20System&descAlign=60&descAlignY=52&descSize=22" alt="banner"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=조선대학교%20산학프로젝트1-10조&fontSize=36&fontAlignY=35&desc=Machine%20Learning-Based%20Phishing%20Website%20Detection%20Project&descAlign=60&descAlignY=52&descSize=22" alt="banner"/>
 </p>
 
 
@@ -171,9 +171,30 @@
 
 ## ⚙️ 설치/실행 가이드
 
-```bash
-# 1. 소스 클론
+- **1. 소스 코드 클론**
 git clone https://git.chosun.ac.kr/iap1-2025/class-06/team-10
 
-# 
+- **2. 가상환경 생성 및 활성화**
+    ```cmd
+    python -m venv venv
+    venv\Scripts\activate
+    ```
+    
+- **3. 패키지 설치**
+pip install -r requirements.txt
+
+- **4. API 키 입력**
+extract_features_23_26.py 파일 내 GOOGLE_API_KEY 값 입력
+
+- **5. 서버 실행(루트 디렉토리에서 실행)**
+python script/server.py
+
+- **6. 앱 설치**
+    ```cmd
+    1. Android Studio 설치
+    2. 아래 GitHub 저장소 클론:
+       https://github.com/TEAMPROJECTAPT/app
+    3. MainActivity.kt 파일에서 내부 IP 주소로 수정
+    4. 앱 빌드 및 Android 기기에 설치
+    ```
 
